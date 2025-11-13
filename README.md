@@ -30,4 +30,4 @@ You can access the running application through the "Ports" tab in your Cloud Wor
 
 ## Documentation
 
-For more information on the Agent Development Kit (ADK), please refer to the [official Google Cloud documentation](https://cloud.google.com/vertex-ai/docs/agent-builder/overview).
+For more information on the Agent Development Kit (ADK), please refer to the [official Google Cloud documentation](https://google.github.io/adk-docs).
